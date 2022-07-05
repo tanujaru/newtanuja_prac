@@ -10,7 +10,7 @@ public class NewTest {
 	  System.setProperty("webdriver.chrome.driver", "C:\\Tanuja\\installer\\selenium\\chromedriver_win32\\chromedriver.exe");
 		WebDriver driver= new ChromeDriver();
 		driver.get("https://www.cnn.com/");
-		System.out.println("************************git prac********************");
+		System.out.println("************************git tanujaprac234********************");
 	  
   }
 }
