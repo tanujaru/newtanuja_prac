@@ -11,6 +11,7 @@ public class NewTest {
 		WebDriver driver= new ChromeDriver();
 		driver.get("https://www.cnn.com/");
 		System.out.println("************************git tanujaprac234********************");
+		System.out.println("************************git tanujaprac234567********************");
 	  
   }
 }
